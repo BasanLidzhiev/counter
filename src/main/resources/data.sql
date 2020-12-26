@@ -1,0 +1,1 @@
+insert into Counter (counter) values (0);
